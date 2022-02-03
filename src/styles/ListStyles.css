@@ -1,0 +1,36 @@
+.list-background {
+  background-color: #b0e0e6;
+  width: 95%;
+  margin: 0 auto;
+  border-radius: 3px;
+  position: relative;
+  margin-bottom: 5px;
+}
+
+.list-background:hover {
+  transition-delay: 0.1s;
+  background-color: #87ceeb;
+}
+
+.list__items {
+  font-family: "Roboto Slab", serif;
+  display: inline-block;
+  text-align: center;
+  margin: 2% auto;
+  width: 90%;
+  height: auto;
+  padding: 2px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.list__delete-icon {
+  position: absolute;
+  top: 6px;
+  right: 2%;
+}
+
+.list__delete-icon:hover {
+  color: #ff4500;
+  cursor: pointer;
+}
