@@ -12,4 +12,4 @@ This todo app is built using **React.js** and **Firebase** which helps to store 
 
 ![Demo](public/todo-app.gif)
 
-You can find the todo-app live [here](https://karthiknayak024.github.io/Todo-app)
+You can find the todo-app live [here](https://tasks-live.herokuapp.com)
